@@ -13,11 +13,13 @@ Last Mod	: 4th Feburary 2022
 
 
 ## Topics
-Topics covered include: machine-level code and its generation by optimizing
-compilers, performance evaluation and optimization, computer arithmetic, memory
-organization and management, networking technology and protocols, and
-supporting concurrent computation.
-
+Topics covered include: 
+- Machine-level code and its generation by optimizing compilers.
+- Performance evaluation and optimization.
+- Computer arithmetic.
+- Memory organization and management.
+- Networking technology and protocols.
+- Supporting concurrent computation.
 
 ## Textbook 
 Computer Systems A Programmer’s Perspective, 2001 (Draft Edition)
