@@ -5,7 +5,6 @@
 int main() {
 
     printf("uint half max: %d\n", UINT_MAX / 2);
-
     printf("signed int max: %d\n", INT_MAX);
     printf("signed int min: %d\n", INT_MIN);
 
